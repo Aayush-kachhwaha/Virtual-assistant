@@ -1,3 +1,4 @@
+// Importing the the following library 
 import pyttsx3
 import speech_recognition as sr
 import wikipedia
@@ -262,6 +263,8 @@ logic()
  
 
 '''
+Following are the list of things which we need to download if its required while running of the code
+
 1. Open website (https://docs.python.org/3/library/webbrowser.html)
 2. Search google (https://docs.python.org/3/library/webbrowser.html)
 3. Seach youtube (https://docs.python.org/3/library/webbrowser.html)
