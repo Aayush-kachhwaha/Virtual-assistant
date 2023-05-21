@@ -1,0 +1,1 @@
+ pyinstaller --clean --onefile --windowed --add-data 'Assistant_name;.' --add-data 'Assistant_voice;.' --add-data 'Assistant_mode;.' --add-data 'icon example.ico;.' --add-data 'icon_microphone.ico;.' --add-data 'icon_settings.ico;.' .\GUI.py
